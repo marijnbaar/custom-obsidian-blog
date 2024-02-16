@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deploy-a-custom-linked-blog-starter.md",
+                "file": "home.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deploy-a-custom-linked-blog-starter.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deploy-a-custom-linked-blog-starter.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "deploy-a-custom-linked-blog-starter.md"
+                "file": "home.md"
               }
             }
           }
@@ -147,6 +147,8 @@
   },
   "active": "8527160649fc051a",
   "lastOpenFiles": [
+    "connect-obsidian-vault-with-github.md",
+    "deploy-a-custom-linked-blog-starter.md",
     "install-linked-blog-starter-locally.md",
     "home.md",
     "reinventing-the-wheel.md"
