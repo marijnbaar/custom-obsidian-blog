@@ -3,7 +3,7 @@ title: An Extendable Obsidian Publish alternative using Next.JS
 excerpt: Create your own template or use someone else's. Changing the template is a matter of updating one line
 ---
 
-## Problems with Obsidian Publish Alternatives (from ChatGPT):
+## hello roblems with Obsidian Publish Alternatives (from ChatGPT):
 
  > 
  > **Compatibility**: Not all Obsidian Publish alternatives may be compatible with all versions of Obsidian or all markdown syntax, which can make it difficult to use certain tools or services. 
