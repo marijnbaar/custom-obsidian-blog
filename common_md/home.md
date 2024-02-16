@@ -33,6 +33,8 @@ Obsidian notes [work out of the box](works-out-of-the-box-with-markdown-files.md
 [Create your own template](deploy-a-custom-linked-blog-starter.md) or use someone else's! Changing the template is simple matter of [updating one line in your repository](update-publish-settings-github-actions.md).
 - There's also an added feature to add "PreviewLinks" to text outside of markdown files. (See the footer in the [example](https://linked-blog-starter.vercel.app/home))
 
+- this is a test
+
 ### Performance
 
 All markdown files are [statically generated](statically-generated.md) meaning loading speeds are super speedy!
