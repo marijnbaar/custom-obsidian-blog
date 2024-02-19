@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "linked-blog-starter-does-not-reinvent-wheel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "linked-blog-starter-does-not-reinvent-wheel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "linked-blog-starter-does-not-reinvent-wheel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "linked-blog-starter-does-not-reinvent-wheel.md"
               }
             }
           }
@@ -147,10 +147,14 @@
   },
   "active": "8527160649fc051a",
   "lastOpenFiles": [
+    "publish-your-obsidian-notes-with-linked-blog-starter.md",
+    "linked-blog-starter-does-not-reinvent-wheel.md",
+    "accepted-markdown-metadata.md",
+    "reinventing-the-wheel.md",
+    "works-out-of-the-box-with-markdown-files.md",
+    "home.md",
     "connect-obsidian-vault-with-github.md",
     "deploy-a-custom-linked-blog-starter.md",
-    "install-linked-blog-starter-locally.md",
-    "home.md",
-    "reinventing-the-wheel.md"
+    "install-linked-blog-starter-locally.md"
   ]
 }
