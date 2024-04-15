@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "posts/connect-obsidian-vault-with-github.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "posts/connect-obsidian-vault-with-github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "posts/connect-obsidian-vault-with-github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "posts/connect-obsidian-vault-with-github.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "8527160649fc051a",
   "lastOpenFiles": [
+    "Untitled.md",
     "posts/connect-obsidian-vault-with-github.md",
     "posts/accepted-markdown-metadata.md",
     "Untitled.canvas",
-    "Untitled.md",
     "deploy-a-custom-linked-blog-starter.md",
     "home.md",
     "get-project-id-account-id-and-token-vercel.md",
