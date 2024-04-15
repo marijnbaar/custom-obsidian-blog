@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/accepted-markdown-metadata.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64aa16fadc281d6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "Untitled.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -158,18 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64aa16fadc281d6b",
+  "active": "8527160649fc051a",
   "lastOpenFiles": [
-    "get-project-id-account-id-and-token-vercel.md",
-    "home.md",
+    "posts/connect-obsidian-vault-with-github.md",
+    "posts/accepted-markdown-metadata.md",
+    "Untitled.canvas",
+    "Untitled.md",
     "deploy-a-custom-linked-blog-starter.md",
+    "home.md",
+    "get-project-id-account-id-and-token-vercel.md",
     "install-linked-blog-starter-locally.md",
     "linked-blog-starter-does-not-reinvent-wheel.md",
     "statically-generated.md",
     "works-out-of-the-box-with-markdown-files.md",
     "update-publish-settings-github-actions.md",
-    "posts/accepted-markdown-metadata.md",
-    "posts/connect-obsidian-vault-with-github.md",
     "posts",
     "publish-your-obsidian-notes-with-linked-blog-starter.md",
     "reinventing-the-wheel.md"

@@ -2,7 +2,7 @@
 title: Dit is een kijkje in mijn brein - Obsidian vault published with NextJS and Tailwind, deployed by Vercel
 excerpt: Create your own template or use someone else's. Changing the template is a matter of updating one line
 ---
-Properties
+
 
 ## Problems with Obsidian Publish Alternatives (from ChatGPT):
 
