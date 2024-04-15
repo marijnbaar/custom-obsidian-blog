@@ -1,6 +1,6 @@
 import React from 'react';
 
-import PostPreview from './post-preview'
+import PostPreview from '../post/post-preview'
 import type Post from '../../interfaces/post'
 import PopularPosts from './popular-posts';
 import PreviewLink from '../misc/preview-link';

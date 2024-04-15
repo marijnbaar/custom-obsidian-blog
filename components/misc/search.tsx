@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react"
-import PostPreview from "../blog/post-preview";
+import PostPreview from "../post/post-preview";
 import { useRouter } from 'next/router'
 
 
