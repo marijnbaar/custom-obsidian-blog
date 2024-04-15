@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "install-linked-blog-starter-locally.md",
+                "file": "posts/accepted-markdown-metadata.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9975dbedacaebc1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/connect-obsidian-vault-with-github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64aa16fadc281d6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/accepted-markdown-metadata.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "install-linked-blog-starter-locally.md",
+                "file": "posts/accepted-markdown-metadata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "install-linked-blog-starter-locally.md",
+                "file": "posts/accepted-markdown-metadata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "install-linked-blog-starter-locally.md"
+                "file": "posts/accepted-markdown-metadata.md"
               }
             }
           }
@@ -145,16 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8527160649fc051a",
+  "active": "5efd06a71a2843ed",
   "lastOpenFiles": [
+    "posts/connect-obsidian-vault-with-github.md",
+    "posts/accepted-markdown-metadata.md",
+    "install-linked-blog-starter-locally.md",
+    "posts",
     "home.md",
     "linked-blog-starter-does-not-reinvent-wheel.md",
-    "install-linked-blog-starter-locally.md",
     "publish-your-obsidian-notes-with-linked-blog-starter.md",
-    "accepted-markdown-metadata.md",
     "reinventing-the-wheel.md",
     "works-out-of-the-box-with-markdown-files.md",
-    "connect-obsidian-vault-with-github.md",
     "deploy-a-custom-linked-blog-starter.md"
   ]
 }
