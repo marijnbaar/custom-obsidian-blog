@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "9975dbedacaebc1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/connect-obsidian-vault-with-github.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "64aa16fadc281d6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/accepted-markdown-metadata.md",
+                "file": "home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/accepted-markdown-metadata.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/accepted-markdown-metadata.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/accepted-markdown-metadata.md"
+                "file": "home.md"
               }
             }
           }
@@ -170,17 +158,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5efd06a71a2843ed",
+  "active": "64aa16fadc281d6b",
   "lastOpenFiles": [
-    "posts/connect-obsidian-vault-with-github.md",
-    "posts/accepted-markdown-metadata.md",
-    "install-linked-blog-starter-locally.md",
-    "posts",
+    "get-project-id-account-id-and-token-vercel.md",
     "home.md",
+    "deploy-a-custom-linked-blog-starter.md",
+    "install-linked-blog-starter-locally.md",
     "linked-blog-starter-does-not-reinvent-wheel.md",
-    "publish-your-obsidian-notes-with-linked-blog-starter.md",
-    "reinventing-the-wheel.md",
+    "statically-generated.md",
     "works-out-of-the-box-with-markdown-files.md",
-    "deploy-a-custom-linked-blog-starter.md"
+    "update-publish-settings-github-actions.md",
+    "posts/accepted-markdown-metadata.md",
+    "posts/connect-obsidian-vault-with-github.md",
+    "posts",
+    "publish-your-obsidian-notes-with-linked-blog-starter.md",
+    "reinventing-the-wheel.md"
   ]
 }
